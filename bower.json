@@ -40,6 +40,6 @@
   },
   "dependencies": {
     "iso8601-js-period": "*",
-    "leaflet": "~0.7.4 || ~1.0.0"
+    "leaflet": "~0.7.4 || ^1.0.0"
   }
 }
